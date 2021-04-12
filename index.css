@@ -1,0 +1,19 @@
+body{
+    padding: 10px;
+    margin:auto;
+
+}
+
+.col-12 col-md-4 mt-3 mt-md-0{
+    padding-left: 50px;
+
+}
+table, th, td {
+    border: 1px solid black;
+}
+#myCanvas1{
+    padding-left: none;
+    margin: 10px;
+    margin-left: 600px;
+    margin-top: -500px;
+}
